@@ -1,0 +1,12 @@
+Ethnicity,AgeAtTx,Site,Tcategory,Nodal_Disease,ecog,Chemotherapy,Local_Therapy,Probability of Survival
+white,65.93972603,supraglottic,T3,N+,0,no chemo,LP/RT alone,0.366190068
+white,69.42465753,supraglottic,T3,N+,0,induction,PLRT,0.396018836
+white,68.14246575,supraglottic,T3,N0,3,no chemo,LP/RT alone,0.439289384
+white,40.30410959,supraglottic,T3,N+,1,no chemo,LP/RT alone,0.512773973
+white,47.96438356,supraglottic,T3,N+,0,no chemo,PLRT,0.472208904
+white,70.3369863,supraglottic,T3,N+,0,no chemo,LP/RT alone,0.324965753
+white,60.50136986,supraglottic,T3,N+,2,no chemo,LP/RT alone,0.323424658
+white,60.72328767,supraglottic,T3,N+,1,no chemo,LP/RT alone,0.321344178
+white,59.36986301,supraglottic,T3,N0,1,induction,LP/chemoRT,0.646532534
+other,57.64931507,supraglottic,T3,N+,1,concurrent,LP/chemoRT,0.662662671
+asian/pacific islander,62.93972603,glottic,T3,N+,2,concurrent,LP/chemoRT,0.769315068
